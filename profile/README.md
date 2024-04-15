@@ -6,9 +6,9 @@ The plan is simple: Teach Bostrom bootloader to develop [type I](https://cyb.ai/
 
 The problem is attacked by self fulfilling prophecy of
 
-> massively collaborative open source game `Age of Superintelligence` in [7 epsiodes](https://cyb.ai/ipfs/QmSBYCCYFNfHNQD7MWm4zBaNuztMaT2KghA2SbeZZm9vLH)
+> massively collaborative open source game `Age of Superintelligence` in [7 episodes](https://cyb.ai/ipfs/QmSBYCCYFNfHNQD7MWm4zBaNuztMaT2KghA2SbeZZm9vLH)
 
-2 years ago we released [Episdode 1: A new hope](https://cyb.ai/genesis)
+2 years ago we released [Episode 1: A new hope](https://cyb.ai/genesis)
 
 Now everyone can get cheap [moon citizenship](https://cyb.ai/ipfs/QmanZyMFnEti618crNPkn93g7MFaoDGrZ4Pta5drfdt9jb) for a while in [portal](https://cyb.ai/portal). and start teaching the bootloader using soft3 architecture.
 
